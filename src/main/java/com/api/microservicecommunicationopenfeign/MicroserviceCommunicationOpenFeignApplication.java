@@ -9,6 +9,7 @@ public class MicroserviceCommunicationOpenFeignApplication {
     public static void main(String[] args) {
         SpringApplication.run(MicroserviceCommunicationOpenFeignApplication.class, args);
         System.out.println("It is running.........");
+        System.out.println("It is running.........");
     }
 
 }
